@@ -156,7 +156,10 @@ dmypy.json
 cython_debug/
 
 # user defined files
-*pdf
+*.pdf
+*.zip
+*dispatch.py
+*.yml
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
